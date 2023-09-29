@@ -1,2 +1,2 @@
 # Hackerrank
-this code are solution from C++ problem in hackerrank
+These codes are solutions to C++ problems in Hackerrank
